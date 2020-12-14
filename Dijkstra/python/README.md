@@ -11,4 +11,4 @@ The source code is your friend, and contains a lot of helpful, unused functions.
 This is the graph that I refer to while performing the algorithm. The small text over the edges of the nodes are the distances / weights of the nodes.
 
 
-![Graph][images/graph.png]
+![Graph](images/graph.png)
